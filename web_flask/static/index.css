@@ -1,0 +1,192 @@
+.frame1-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
+
+.frame1-frame1 {
+    width: 100%;
+    height: 667px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.frame1-rectangle13 {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 667px;
+    position: absolute;
+}
+
+.frame1-component1 {
+    top: 168px;
+    left: 45px;
+    width: 285px;
+    height: 454px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+
+.frame1-group30 {
+    top: 0px;
+    left: 0px;
+    width: 285px;
+    height: 453px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: #c2e812;
+    border-width: 1px;
+    border-radius: 20px;
+    background-color: rgba(32, 32, 32, 1);
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+}
+
+/* Updated CSS for .frame1-create to be a button */
+.frame1-create {
+    top: 167px;
+    left: 64px;
+    width: 156px;
+    height: 119px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    background-color: rgba(32, 32, 32, 1);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.frame1-text {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 46.16582489013672px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Alata;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.frame1-component2 {
+    top: 44px;
+    left: 150px;
+    width: 180px;
+    height: 41px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+
+.frame1-group31 {
+    top: 0px;
+    left: 0px;
+    width: 180px;
+    height: 40px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: #c2e812;
+    border-width: 1px;
+    border-radius: 20px;
+    background-color: rgba(32, 32, 32, 1);
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+}
+
+.frame1-group29 {
+    top: 11px;
+    left: 26px;
+    width: 128.26904296875px;
+    height: 18px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+}
+
+.frame1-text4 {
+    left: 22.26904296875px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12.75357437133789px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Alata;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.frame1-vector {
+    top: 0.9619140625px;
+    left: 0px;
+    width: 15px;
+    height: 14px;
+    position: absolute;
+}
+
+.frame1-component3 {
+    top: 44px;
+    left: 45px;
+    width: 40px;
+    height: 41px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+
+.frame1-group32 {
+    top: 0px;
+    left: 0px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: #c2e812;
+    border-width: 1px;
+    border-radius: 20px;
+    background-color: rgba(32, 32, 32, 1);
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+}
+
+.frame1-icon {
+    top: 13px;
+    left: 13px;
+    width: 16px;
+    height: 14px;
+    position: absolute;
+}
